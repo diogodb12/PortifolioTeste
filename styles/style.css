@@ -104,6 +104,10 @@ body {
     color: var(--cor-terciaria);
 }
 
+.foto {
+    height: 600px;
+}
+
 .rodape {
     color: var(--cor-pimaria);
     background-color: var(--cor-terciaria);
